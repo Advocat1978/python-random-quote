@@ -1,7 +1,7 @@
 import random
 def primary():
   #print("Keep it logically awesome.")
-
+  # 34 quotes in txt file
   f = open("quotes.txt")
   quotes = f.readlines()
   f.close()
